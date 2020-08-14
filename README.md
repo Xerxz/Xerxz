@@ -8,5 +8,5 @@
 <br/>
 
 ### Languages:
-<img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/> Java
+- <img align="left" alt="Java" onClick="#" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/> Java
  
