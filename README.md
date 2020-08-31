@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a student at Chalmers University of Technology!
-- 🔭 I’m currently working on Chord Finder 2
+- 🔭 I’m currently working on Nutrients
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me: xerxz5115@gmail.com
 
