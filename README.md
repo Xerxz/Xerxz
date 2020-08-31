@@ -11,6 +11,9 @@
 - <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>Python
 
 - <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>C
+
+- <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>C#
+
  
  
 [![Xerxz's github stats](https://github-readme-stats.vercel.app/api?username=Xerxz)](https://github.com/Xerxz/github-readme-stats)
