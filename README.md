@@ -16,7 +16,7 @@
 
 - <img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"/>HTML & CSS
 
-<\b>
+<br>
 
 
  
