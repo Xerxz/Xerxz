@@ -2,7 +2,7 @@
 
 ## I'm a student at Chalmers University of Technology!
 - 🔭 I’m currently studying Computer Science and Software Engineering.
-- 🌱 I’m currently learning Calculus, Object-Oriented Java Programming.
+- 🌱 I’m currently learning Calculus and Object-Oriented Java Programming.
 - 📫 How to reach me: xerxz5115@gmail.com
 
 ### Languages:
