@@ -2,7 +2,7 @@
 
 ## I'm a student at Chalmers University of Technology!
 - 🔭 I’m currently studying Computer Science and Software Engineering.
-- 🌱 I’m currently learning Agile software project management and Mathematical statistics and discrete mathematics.
+- 🌱 I’m currently learning Agile software project management and Mathematical statistics & discrete mathematics.
 - 📫 How to reach me: xerxz5115@gmail.com
 
 ### Languages:
