@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm a student at Chalmers University of Technology!
-- 🔭 I’m currently studying Intro to data science and Ai.
+- 🔭 I’m currently studying Intro to Data Science and Ai.
 - 🌱 I’m currently learning Software engineering principles for complex systems.
 - 📫 How to reach me: xerxz5115@gmail.com
 
