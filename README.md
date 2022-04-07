@@ -11,7 +11,7 @@
 
 - <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>C
 
-- <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>C#
+- <img align="left" alt="C#" width="26px" src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png"/>C#
 
 
 <br>
