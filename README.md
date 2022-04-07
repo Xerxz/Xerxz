@@ -5,7 +5,7 @@
 - 📫 How to reach me: xerxz5115@gmail.com
 
 ### Languages:
-- <img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png"/>Java
+- <img align="left" alt="Java" width="26px" src="https://www.aktsrl.com/new/wp-content/uploads/2020/04/java.png"/>Java
 
 - <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>Python
 
