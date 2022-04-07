@@ -13,7 +13,6 @@
 
 - <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>C#
 
-- <img align="left" alt="C" width="26px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"/>HTML & CSS
 
 <br>
 
